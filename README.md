@@ -1,1 +1,1 @@
-![Codewars](https://github.r2v.ch/codewars?user=mizannin16)
+![Codewars](https://github.r2v.ch/codewars?user=mizanin16)
